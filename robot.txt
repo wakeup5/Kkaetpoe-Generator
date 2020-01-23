@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maplename.netlify.com/sitemap.xml
